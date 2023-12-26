@@ -1,5 +1,4 @@
 
-![Snake animation](https://github.com/{{wthvishal}}/{{wthvishal}}/blob/output/github-contribution-grid-snake.svg)
 
 ### aboutMe.js
 ```js
